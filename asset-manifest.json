@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/UntitledWaypointEditor/static/css/main.8cbebb47.css",
-    "main.js": "/UntitledWaypointEditor/static/js/main.523887b9.js",
+    "main.css": "/UntitledWaypointEditor/static/css/main.56403d63.css",
+    "main.js": "/UntitledWaypointEditor/static/js/main.a02c6250.js",
     "static/js/787.d8980173.chunk.js": "/UntitledWaypointEditor/static/js/787.d8980173.chunk.js",
     "index.html": "/UntitledWaypointEditor/index.html",
-    "main.8cbebb47.css.map": "/UntitledWaypointEditor/static/css/main.8cbebb47.css.map",
-    "main.523887b9.js.map": "/UntitledWaypointEditor/static/js/main.523887b9.js.map",
+    "main.56403d63.css.map": "/UntitledWaypointEditor/static/css/main.56403d63.css.map",
+    "main.a02c6250.js.map": "/UntitledWaypointEditor/static/js/main.a02c6250.js.map",
     "787.d8980173.chunk.js.map": "/UntitledWaypointEditor/static/js/787.d8980173.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8cbebb47.css",
-    "static/js/main.523887b9.js"
+    "static/css/main.56403d63.css",
+    "static/js/main.a02c6250.js"
   ]
 }
